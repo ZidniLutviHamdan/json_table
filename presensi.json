@@ -1,0 +1,35 @@
+{
+  "presensi": {
+    "data_absensi_mobile": [
+      {
+        "id": "11",
+        "nip": "14650015",
+        "latitude": "-7.784395",
+        "longitude": "110.394295",
+        "presensi_ke": "1",
+        "photo": "http://orig12.deviantart.net/bb23/f/2015/227/a/5/head_by_iqbaladinurmansyah-d95tk1c.gif",
+        "macaddress": "asus keren",
+        "created_at": "2016-10-30 07:00:00"
+      },
+      {
+        "id": "10",
+        "nip": "14650015",
+        "latitude": "-7.784395",
+        "longitude": "110.394295",
+        "presensi_ke": "1",
+        "photo": "http://orig12.deviantart.net/bb23/f/2015/227/a/5/head_by_iqbaladinurmansyah-d95tk1c.gif",
+        "macaddress": "asusususus",
+        "created_at": "2016-10-29 07:00:00"
+      }
+    ],
+    "data_absensi_finger": [
+      {
+        "finger_id": "10000",
+        "nip": "14650015",
+        "tag_date": "2016-10-29 17:00:00",
+        "finger_ip": "10.10.28.138"
+      }
+    ],
+    "latest_update": "2017-03-30 21:16:05"
+  }
+}
